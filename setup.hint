@@ -1,0 +1,8 @@
+category: Editors
+requires: libgcc1 libhunspell1.3_0 libQtCore4 libQtGui4 libstdc++6 libzip1 zlib0
+sdesc: "Qt fullscreen text editor"
+ldesc: "FocusWriter is a simple, distraction-free writing environment. 
+It utilizes a hide-away interface that you access by moving your mouse 
+to the edges of the screen, allowing the program to have a familiar look 
+and feel to it while still getting out of the way so that you can 
+immerse yourself in your work."
