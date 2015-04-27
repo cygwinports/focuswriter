@@ -1,7 +1,7 @@
-inherit qt4-qmake
+inherit qt5-qmake
 
 NAME="focuswriter"
-VERSION=1.5.2
+VERSION=1.5.3
 RELEASE=1
 CATEGORY="Editors"
 SUMMARY="Qt fullscreen text editor"
@@ -13,4 +13,4 @@ work."
 HOMEPAGE="http://gottcode.org/focuswriter/"
 SRC_URI="http://gottcode.org/focuswriter/${NAME}-${VERSION}-src.tar.bz2"
 
-CYGQMAKE4_ARGS="PREFIX=/usr"
+CYGQMAKE5_ARGS="PREFIX=/usr"
