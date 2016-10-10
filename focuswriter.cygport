@@ -1,7 +1,7 @@
 inherit qt5-qmake
 
 NAME="focuswriter"
-VERSION=1.5.4
+VERSION=1.6.1
 RELEASE=1
 CATEGORY="Editors"
 SUMMARY="Qt fullscreen text editor"
